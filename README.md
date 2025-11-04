@@ -5,8 +5,15 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>mallard duck</title>
+<meta na<title>
+mallard duck
+<head>
+  <style>
+    th {
+      font-family: 'Arial', sans-serif;
+    }
+  </style>
+</head>
 </head>
 <head>
 <table border="1">
