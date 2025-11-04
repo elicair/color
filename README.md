@@ -7,16 +7,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>mallard duck</title>
-<style>
-table {width: 100%;border-collapse: collapse;}
-th, td {border: 1px solid #ccc;padding: 8px;text-align: left}
-.scheme-header {background-color: #333;color: #fff;
-font-family: 'Arial Black', sans-serif;
-font-size: 1.5em;
-text-transform: uppercase;
-letter-spacing: 2px;
-font-weight: bold;}
-</style>
 </head>
 <head>
 <table border="1">
