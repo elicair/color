@@ -11,7 +11,7 @@
 <th style="background-color: grey; color: white;">grey</th>
 </tr>
 <tr>
-<td>##FFFFFF</td>
+<td>#FFFFFF</td>
 <td>#008000</td>
 <td>#0000ff</td>
 <td>#808080</td>
