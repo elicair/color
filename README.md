@@ -1,12 +1,31 @@
 # color
 <!DOCTYPE html>
 <html lang="en">
-<!DOCTYPE html>
-<html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta na<title>
-mallard duck
+    <meta charset="UTF-8">
+    <title>Table with CSS Font</title>
+    <style>
+        /* Apply a clean sans-serif font to the whole table */
+        table.custom-font-table {
+            font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 60%;
+            margin: 2em auto;
+        }
+        table.custom-font-table th,
+        table.custom-font-table td {
+            border: 1px solid #bbb;
+            padding: 10px 16px;
+            text-align: left;
+        }
+        table.custom-font-table th {
+            background: #f4f7fa;
+        }
+        table.custom-font-table tr:nth-child(even) {
+            background: #f8fbfc;
+        }
+    </style>
+</head>
 <head>
   <style>
     th {
