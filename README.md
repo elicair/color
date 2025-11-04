@@ -13,7 +13,11 @@ color
 <caption>Employee Information</caption>
 <thead>
 <tr>
-<th>light grey</th> <th>style="background-color: lightgrey;">light grey</th>
+<th>light grey</th>   
+<tr>
+<td style="background-color: lightblue;">Cell 1</td>
+<td>Cell 2</td>
+</tr>
 <th>green</th>
 <th>white</th>
 <th>blue</th>
@@ -30,12 +34,6 @@ color
 <td>Bob Johnson</td>
 <td>25</td>
 <td>Canada</td>
-<td>USA</td>
-</tr>
-<tr>
-<td>Charlie Brown</td>
-<td>35</td>
-<td>UK</td>
 <td>USA</td>
 </tr>
 <tr>
