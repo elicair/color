@@ -3,14 +3,6 @@
 <html lang="en">
 mallard duck
 <head>
-  <style>
-    th {
-      font-family: 'Arial', sans-serif;
-    }
-  </style>
-</head>
-</head>
-<head>
 <table border="1">
 <tr>
 <th style="background-color: white;">Header 1</th>
