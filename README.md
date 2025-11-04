@@ -1,7 +1,7 @@
 # color
 <!DOCTYPE html>
 <html lang="en">
-mallard duck
+<th style="background-color: white; font-family: Arial, sans-serif;">mallard duck</th>
 <head>
 <table border="1">
 <tr>
