@@ -13,7 +13,7 @@ color
 <caption>Employee Information</caption>
 <thead>
 <tr>
-<th>light grey</th> <td style="background-color: lightgrey;">light grey</td>
+<th>light grey</th> <th>style="background-color: lightgrey;">light grey</th>
 <th>green</th>
 <th>white</th>
 <th>blue</th>
@@ -21,19 +21,28 @@ color
 </thead>
 <tbody>
 <tr>
-  <td>Alice Smith</td>
-  <td>30</td>
-  <td>USA</td>
+<td>Alice Smith</td>
+<td>30</td>
+<td>USA</td>
+<td>USA</td>
 </tr>
 <tr>
 <td>Bob Johnson</td>
 <td>25</td>
 <td>Canada</td>
+<td>USA</td>
 </tr>
 <tr>
 <td>Charlie Brown</td>
 <td>35</td>
 <td>UK</td>
+<td>USA</td>
+</tr>
+<tr>
+<td>Charlie Brown</td>
+<td>35</td>
+<td>UK</td>
+<td>USA</td>
 </tr>
 </tbody>
 <tfoot>
