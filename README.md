@@ -7,30 +7,16 @@ color
 <html>
 <head>
 <title>HTML Table Example</title>
-<style>
-table {
-border-collapse: collapse;
-width: 80%;
-margin: 20px auto;
-}
-th, td {
-border: 1px solid black;
-padding: 8px;
-text-align: left;
-}
-th {
-background-color: #f2f2f2;
-</style>
-</head>
-<body>
+
 
 <table>
 <caption>Employee Information</caption>
 <thead>
 <tr>
-<th>Name</th>
-<th>Age</th>
-<th>Country</th>
+<th>light grey</th> <td style="background-color: lightgrey;">light grey</td>
+<th>green</th>
+<th>white</th>
+<th>blue</th>
 </tr>
 </thead>
 <tbody>
