@@ -6,23 +6,15 @@ color
 <!DOCTYPE html>
 <html>
 <head>
-<title>HTML Table Example</title>
 
-<table id="myTable">
-  <tr>
-    <td>Cell 1</td>
-    <td id="targetCell">Cell 2</td>
-    <td>Cell 3</td>
-  </tr>
-</table>
 <table>
-<caption>Employee Information</caption>
+<caption>mallard duck</caption>
 <thead>
 <tr>
-<th>bgcolor="blue">blue</th>
+<th>blue</th>
 <th>green</th>
 <th>white</th>
-<th>blue</th>
+<th>style="background-color: blue;">Header 2</th>
 </tr>
 </thead>
 <tbody>
