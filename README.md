@@ -7,7 +7,7 @@
 <tr>
 <th style="background-color: white;">white</th>
 <th style="background-color: green; color: white;">green</th>
-<th style="background-color: blue; color: white;">blue/th>
+<th style="background-color: blue; color: white;">blue</th>
 <th style="background-color: grey; color: white;">grey</th>
 </tr>
 <tr>
