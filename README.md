@@ -13,7 +13,7 @@ color
 <caption>Employee Information</caption>
 <thead>
 <tr>
-<th>style="background-color: lightblue;">light grey</th> 
+<th>bgcolor="blue">blue</th>
 <th>green</th>
 <th>white</th>
 <th>blue</th>
