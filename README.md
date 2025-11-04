@@ -8,7 +8,13 @@ color
 <head>
 <title>HTML Table Example</title>
 
-
+<table id="myTable">
+  <tr>
+    <td>Cell 1</td>
+    <td id="targetCell">Cell 2</td>
+    <td>Cell 3</td>
+  </tr>
+</table>
 <table>
 <caption>Employee Information</caption>
 <thead>
