@@ -14,7 +14,7 @@ color
 <th>blue</th>
 <th>green</th>
 <th>white</th>
-<th>style="background-color: blue;">Header 2</th>
+<th bgcolor="lightblue">Header 1</th>
 </tr>
 </thead>
 <tbody>
