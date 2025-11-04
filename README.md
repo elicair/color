@@ -13,8 +13,7 @@ color
 <caption>Employee Information</caption>
 <thead>
 <tr>
-<th>light grey</th> 
-<td style="background-color: lightblue;">Cell 1</td>
+<th>style="background-color: lightblue;">light grey</th> 
 <th>green</th>
 <th>white</th>
 <th>blue</th>
